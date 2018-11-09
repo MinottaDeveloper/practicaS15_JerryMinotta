@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "470489065865",
+    "firebase_url": "https://introduccionfirebase-54c40.firebaseio.com",
+    "project_id": "introduccionfirebase-54c40",
+    "storage_bucket": "introduccionfirebase-54c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470489065865:android:ab470a3f5869cb11",
+        "android_client_info": {
+          "package_name": "com.example.a1113681552.introduccionfirebaseminotta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470489065865-jr3bml13guktmav2pn7fppi38u4gj2g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1113681552.introduccionfirebaseminotta",
+            "certificate_hash": "65981df26f66bda78654efce4e5de2be1250ff3c"
+          }
+        },
+        {
+          "client_id": "470489065865-fde9pv04dsc9lmpkhto6ic1o59nnkv9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Yghem5abIR7yyI19T19uhpxaIDf9JGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470489065865-fde9pv04dsc9lmpkhto6ic1o59nnkv9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470489065865:android:c549c4d17ab9a8ed",
+        "android_client_info": {
+          "package_name": "developer.minotta.practicas15_jerryminotta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470489065865-tmbn7o3ina4h64et0q3ajdp8nf3ij299.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developer.minotta.practicas15_jerryminotta",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "470489065865-fde9pv04dsc9lmpkhto6ic1o59nnkv9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Yghem5abIR7yyI19T19uhpxaIDf9JGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470489065865-fde9pv04dsc9lmpkhto6ic1o59nnkv9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
